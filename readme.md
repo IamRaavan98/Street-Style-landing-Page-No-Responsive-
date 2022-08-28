@@ -10,7 +10,7 @@ in html and css
 
 ### Here **Screen-shots** of my project
 
-![Screen-shots](live-class-project-01/MeProjec1.png)
+![Screen-shots](MeProjec1.png)
 
 # My other Websites
 
